@@ -1,0 +1,2 @@
+# Truco
+A card game
